@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/exerciseTrackerProject/static/js/main.e8776e31.chunk.js",
+    "main.js.map": "/exerciseTrackerProject/static/js/main.e8776e31.chunk.js.map",
+    "runtime-main.js": "/exerciseTrackerProject/static/js/runtime-main.6d6074c1.js",
+    "runtime-main.js.map": "/exerciseTrackerProject/static/js/runtime-main.6d6074c1.js.map",
+    "static/css/2.b56a0318.chunk.css": "/exerciseTrackerProject/static/css/2.b56a0318.chunk.css",
+    "static/js/2.ce7d7127.chunk.js": "/exerciseTrackerProject/static/js/2.ce7d7127.chunk.js",
+    "static/js/2.ce7d7127.chunk.js.map": "/exerciseTrackerProject/static/js/2.ce7d7127.chunk.js.map",
+    "index.html": "/exerciseTrackerProject/index.html",
+    "precache-manifest.4f6638cc3b0b1ec3b7d74038de6a2169.js": "/exerciseTrackerProject/precache-manifest.4f6638cc3b0b1ec3b7d74038de6a2169.js",
+    "service-worker.js": "/exerciseTrackerProject/service-worker.js",
+    "static/css/2.b56a0318.chunk.css.map": "/exerciseTrackerProject/static/css/2.b56a0318.chunk.css.map",
+    "static/js/2.ce7d7127.chunk.js.LICENSE.txt": "/exerciseTrackerProject/static/js/2.ce7d7127.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d6074c1.js",
+    "static/css/2.b56a0318.chunk.css",
+    "static/js/2.ce7d7127.chunk.js",
+    "static/js/main.e8776e31.chunk.js"
+  ]
+}
